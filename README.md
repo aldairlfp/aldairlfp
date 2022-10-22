@@ -4,7 +4,7 @@ Hello, my name is Aldair Alfonso
 
 I am a computer science student 💻 at the University of Havana.
 
-My Passions are videogames 🎮 and programming 🖥️. 
+My passions are videogames 🎮 and programming 🖥️. 
 
 My favorite language is C# 💙, although I really like Python 🐍 a lot 💚. 
 
