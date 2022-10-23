@@ -8,9 +8,9 @@ My passions are videogames 🎮 and programming 🖥️.
 
 My favorite language is C# 💙, although I really like Python 🐍 a lot 💚. 
 
-I am a computer graphics enthusiast and an [Alienware](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj7pdSS8PT6AhVKRTABHTcWBgcQFnoECBgQAQ&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fgaming%2Falienware&usg=AOvVaw1nzs2eGHfLzMJRQA1bJBCn) fanatic
+I am a computer graphics enthusiast and an [Alienware](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj7pdSS8PT6AhVKRTABHTcWBgcQFnoECBgQAQ&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fgaming%2Falienware&usg=AOvVaw1nzs2eGHfLzMJRQA1bJBCn) 👽 fanatic
 
-The field of image processing awakes great interest in me, especially the processing of medical images 🩻, so that I can help in the treatment of different diseases that need the human eye to diagnose and treat.
+The field of image processing inspires great interest in me, especially the processing of medical images 🩻, so that I can help in the treatment of different diseases that need the human eye to diagnose and treat.
 
 
 <p align="center">
