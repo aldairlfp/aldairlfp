@@ -13,7 +13,7 @@ I am a computer graphics enthusiast and an [Alienware](https://www.google.com/ur
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,cs,cpp,dotnet,fastapi,django,nestjs,github,latex,mysql,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,py,cs,dotnet,django,github,latex,mysql,visualstudio,vscode" />
   </a>
 </p>
 
