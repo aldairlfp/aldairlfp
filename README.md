@@ -8,7 +8,9 @@ My passions are videogames 🎮 and programming 🖥️.
 
 My favorite language is C# 💙, although I really like Python 🐍 a lot 💚. 
 
-I am a computer graphics enthusiast and an [Alienware](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj7pdSS8PT6AhVKRTABHTcWBgcQFnoECBgQAQ&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fgaming%2Falienware&usg=AOvVaw1nzs2eGHfLzMJRQA1bJBCn) 👽 fanatic
+I am a computer graphics enthusiast and an [Alienware](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj7pdSS8PT6AhVKRTABHTcWBgcQFnoECBgQAQ&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fgaming%2Falienware&usg=AOvVaw1nzs2eGHfLzMJRQA1bJBCn) 👽 fanatic.
+
+ 👉 [Enter here to look my cv](https://drive.google.com/file/d/1FKWUxUvcraObkYO-RIP-z5qlduKv-twT/view?usp=sharing) 📝.
 
 
 <p align="center">
