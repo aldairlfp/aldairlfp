@@ -2,7 +2,7 @@
 
 Hello, my name is Aldair Alfonso 
 
-I am a computer science student 💻 at the University of Havana.
+I am a computer science graduate 💻 at the University of Havana.
 
 My passions are videogames 🎮 and programming 🖥️. 
 
